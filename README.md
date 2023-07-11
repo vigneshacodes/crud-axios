@@ -1,6 +1,7 @@
-<h1>CRUD - APPLICATION</h1>
+Crud Axios Task App
 
-<h6>Website Link - https://varun-crud-operation.netlify.app</h6>
+Website Link : https://vscrud-axios.netlify.app/
 
+![Capture](https://github.com/vigneshacodes/crud-axios/assets/134355192/4efe3f13-f26e-4901-9802-78074a1ddf3c)
 
-![crud](https://github.com/VARUNKUMAR2020/CRUD-APP/assets/111338202/bbbddd2f-1814-4d4e-b0ab-3eb28a6387a6)
+![Capture2](https://github.com/vigneshacodes/crud-axios/assets/134355192/e144cdc9-2b59-4c48-9fd2-06f26fc1af54)
